@@ -16,6 +16,8 @@ for _ in range(tests):
         i = 0
         j += 1
 
+    # print array with spaces between elements
+    # last element with new line
     for i in range(len(max_int)):
         if i == len(max_int) -1:
             print(max_int[i])
